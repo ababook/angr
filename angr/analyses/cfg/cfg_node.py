@@ -5,6 +5,7 @@ import archinfo
 
 from ...codenode import BlockNode, HookNode
 from ...engines.successors import SimSuccessors
+from ...procedures import SIM_PROCEDURES
 
 _l = logging.getLogger(__name__)
 
